@@ -7,8 +7,13 @@
   font-style: italic;
 }
 .actors {
-  height: 200px;
-  width: 200px;
-  object-fit: cover;
   border-radius: 50%;
 }
+
+.prof{
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
